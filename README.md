@@ -6,7 +6,7 @@
 
 ### 技术栈
 
-- 最新的系统与软件：Ubuntu 20.04 / Node.js 14 / Typescript 4.2
+- 最新的系统与软件：Ubuntu 20.04 / Node.js 15 / Typescript 4.3
 - 基础设施即代码：我们使用 Terraform / Packer / Ansible 实现 IaC
 - 敏捷开发：基于 GitHub Actions 提供完善的 CI/CD 工作流
 
